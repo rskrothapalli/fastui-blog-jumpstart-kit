@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "fastui-jumpstart-blog-app"
+version = "0.1.0"
+description = "Basic jumpstart app for creating blog using FastUI"
+authors = ["Ravi Sankar Krothapalli <rskrothapalli@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.7.4"
+fastapi = "^0.111.0"
+fastui = "^0.6.0"
+shiny = "^0.10.2"
+mypy = "^1.10.1"
+plotly = "^5.22.0"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
