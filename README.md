@@ -1,5 +1,5 @@
 
->Note: FastUI project is still a work in progress 🚧, so there may be features that are not fully complete or available.
+>Note: FastUI project is still a work in progress 🚧, so there may be features that are not fully complete or available. This project is created using FastUI.
 ## How to use this jumpstart application?
 The configuration file for customizing the application can be found at app/blog.yml. This file controls the setup for the entire blog. You can add sections for new posts under the articles section and utilize the status flag to designate the posts as either `draft` mode or `published` mode.
 
